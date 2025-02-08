@@ -20,3 +20,9 @@ Rscript scripts/analysis.R
 
 ## Ethical Considerations
 [View Bias Mitigation Recommendations](docs/ethical_impact.md)
+
+## Judicial System Impact
+This analysis demonstrates how algorithmic bias can:
+- Lead to 92% higher false accusations for minorities
+- Reduce trust in automated sentencing tools
+
